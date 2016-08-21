@@ -1,6 +1,8 @@
 Body {font-family: Arial;
 	margin:20px 100px 100px 100px;
-	color: #1C1C1C;}
+	color: #1C1C1C;
+	background-image: url("http://www.mdchhs.com/wp-content/uploads/2014/10/bigstock-Safety-concept-Closed-Padlock-52215034.jpg");
+}
 
 a{
 	color: #08088A;
