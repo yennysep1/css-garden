@@ -1,0 +1,52 @@
+Body {font-family: Arial;
+	margin:20px 100px 100px 100px;
+	color: #1C1C1C;}
+
+a{
+	color: #08088A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.intro h1 {
+	color :#fff;
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 30px;
+	background-color:#8A0829;
+	padding: 40px;
+	text-align: center;
+
+}
+
+.intro h2 {
+	color: #4B088A;
+}
+
+h3{
+	color:#8A0829;
+	background-color:#fff;
+	padding: 10px;
+}
+
+
+
+.preamble, .explanation, .participation, .benefits, .requirements{
+
+	background-color: #E3CEF6;
+	padding: 20px;
+}
+
+footer{
+	border: 2px solid #FF0040;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.sidebar div  {
+	display: inline-block;
+	margin: 20px;
+	
+	
+	}
